@@ -17,6 +17,6 @@ form p {
   padding-bottom: 5px;
 }
 
-button {
+input[type='submit'] {
   padding: 3px;
 }
